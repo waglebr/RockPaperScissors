@@ -1,2 +1,2 @@
-# RockPaperScissors
-Rock-Paper-Scissors game project in Python
+# Rock Paper Scissors
+Rock Paper Scissors game project in Python
